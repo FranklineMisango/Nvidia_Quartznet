@@ -1,0 +1,11 @@
+torch==1.12.1
+torchaudio==0.12.1
+librosa==0.8.0
+ipython==7.23.1
+tensorboard==2.5.0
+matplotlib==3.4.2
+jiwer==2.2.0 
+pandas
+PyYAML==6.0
+tqdm==4.64.1
+protobuf==3.20.*
